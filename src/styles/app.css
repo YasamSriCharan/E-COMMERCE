@@ -134,9 +134,9 @@ body {
 .btnOutline {
   padding: 12px;
   border-radius: 12px;
-  border: 2px solid #66dc2e;
+  border: 2px solid #0004ff;
   background: transparent;
-  color: #f5f5f6;
+  color: #ff0000;
   font-weight: bold;
   cursor: pointer;
 }
